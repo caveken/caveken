@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/104344162/204020155-c66b51a3-5b92-437d-8e43-cdd164facc83.png)
+
 ### Hi there 
 
 * I’m SoftWareTestEngineer
@@ -16,3 +16,4 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cavidaneken)
 
+![logo](https://user-images.githubusercontent.com/104344162/204020155-c66b51a3-5b92-437d-8e43-cdd164facc83.png)![logo1](https://user-images.githubusercontent.com/104344162/204021681-16ac8f4e-a15d-416d-8fe6-3386a59545ee.png)
