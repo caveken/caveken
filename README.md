@@ -9,11 +9,15 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
 
 
-<p align="center">
+<p align="left">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caveken&theme=theme=vue&show_icons=true&count_private=true)"/>
+</p>
+<p align="left">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caveken&layout=compact&langs_count=8&theme=theme=vue"/>
 </p>
 
+
+
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cavidaneken)
 
-![logo](https://user-images.githubusercontent.com/104344162/204020155-c66b51a3-5b92-437d-8e43-cdd164facc83.png)![logo1](https://user-images.githubusercontent.com/104344162/204021681-16ac8f4e-a15d-416d-8fe6-3386a59545ee.png)
+![logo1](https://user-images.githubusercontent.com/104344162/204021681-16ac8f4e-a15d-416d-8fe6-3386a59545ee.png)
