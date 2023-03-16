@@ -20,4 +20,4 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cavidaneken)
 
-![logo1](https://user-images.githubusercontent.com/104344162/204021681-16ac8f4e-a15d-416d-8fe6-3386a59545ee.png)
+[![logo1](https://user-images.githubusercontent.com/104344162/204021681-16ac8f4e-a15d-416d-8fe6-3386a59545ee.png)](https://www.linkedin.com/company/women-who-code/)
